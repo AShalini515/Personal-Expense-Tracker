@@ -1,7 +1,7 @@
 from datetime import datetime
 import csv
 import os
-filename = r"C:\Users\shalini.annam\OneDrive - Qentelli\Desktop\AIMLprojects\PersonalExpenseTracker\expenses.csv";
+filename = r"C:\Users\shalini\Desktop\AIMLprojects\PersonalExpenseTracker\expenses.csv";
 # validate date
 def validate_date(date_str):
     try:
